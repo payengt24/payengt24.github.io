@@ -32,7 +32,7 @@ h5, h4, h6 {
   height: auto;
   margin: 10px;
   border: 5px solid black;
-  box-shadow: 5px 5px rgb(255, 0, 179);
+  /* box-shadow: 5px 5px rgb(255, 0, 179); */
 }
 
 .profileDiv {
